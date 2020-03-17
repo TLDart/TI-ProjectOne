@@ -17,3 +17,5 @@ Finally, for each "target image":
 # Known Issues/Bugs 
 * Massive Slowdown in performance if, when calculating frequency, an alphabet is used
 
+## Collaborators
+[Miguel Rabuge] (https://github.com/MikeLrUC)
